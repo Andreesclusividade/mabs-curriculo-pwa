@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" role="img" aria-label="MABS — hexágono ouro com letra M">
+  <rect width="40" height="40" rx="4" fill="#16130e"/>
+  <polygon points="20,3 35,11.5 35,28.5 20,37 5,28.5 5,11.5" fill="none" stroke="#e7b94e" stroke-width="2.6" stroke-linejoin="round"/>
+  <text x="20" y="27" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="700" fill="#e7b94e">M</text>
+</svg>
